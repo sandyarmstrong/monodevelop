@@ -73,6 +73,8 @@
 			<true/>
 		</dict>
 		<dict>
+			<key>CFBundleTypeIconFile</key>
+			<string>xamarin-sketches-agent-mac.icns</string>
 			<key>CFBundleTypeExtensions</key>
 			<array>
 				<string>sketchcs</string>
@@ -89,6 +91,8 @@
 			<true/>
 		</dict>
 		<dict>
+			<key>CFBundleTypeIconFile</key>
+			<string>xamarin-sketches-agent-mac.icns</string>
 			<key>CFBundleTypeExtensions</key>
 			<array>
 				<string>sketchfs</string>
