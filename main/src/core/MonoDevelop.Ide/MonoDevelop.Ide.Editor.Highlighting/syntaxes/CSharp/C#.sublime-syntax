@@ -30,6 +30,7 @@ name: "C#"
 file_extensions:
   - cs
   - csx
+  - csi
 scope: source.cs
 contexts:
   main:
